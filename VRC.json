@@ -1,0 +1,15 @@
+{
+    "name": "VRC",
+    "version": "1.0.0",
+    "description": "A JSON file for VRC configuration",
+    "VRC": [
+        {}
+    ],
+    "settings": [
+        {
+            "counter": {
+                "counter": 8
+            }
+        }
+    ]
+}
