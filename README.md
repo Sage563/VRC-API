@@ -27,7 +27,8 @@ VRC-API/
 ├── req.py
 └── utills.py
 ```
-
+> **Note:** This project depends on libraries for speech recognition and text-to-speech.Do not install the packages when run it auto
+> installs all the packages using req.used()
 ## File Descriptions and Functions
 
 ### req.py
@@ -178,5 +179,6 @@ Contributions and feedback are welcome. If you have ideas or improvements, pleas
 This project is open source. See the LICENSE file for more information.
 
 ## Author
+
 
 Developed by [Sage563](https://github.com/Sage563)
